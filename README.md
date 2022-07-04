@@ -1,6 +1,6 @@
 # react-native-context-menu-view
 
-Use native context menu functionality from React Native. On iOS 13+ this uses `UIMenu` functionality, and on Android it uses a `PopUpMenu`.
+Use native context menu functionality from React Native. On iOS 13+ this uses `UIMenu` functionality, and on Android it uses a `Cascade`.
 
 On iOS 12 and below, nothing happens. You may wish to do a `Platform.OS === 'ios' && parseInt(Platform.Version, 10) <= 12` check, and add your own `onLongPress` handler.
 
@@ -8,7 +8,7 @@ On iOS 12 and below, nothing happens. You may wish to do a `Platform.OS === 'ios
 
 ## Getting started
 
-`$ npm install react-native-context-menu-view --save`
+`$ npm install https://gitlab.com/getgain-public/libs/react-native-context-menu.git --save`
 
 ### Mostly automatic installation
 
