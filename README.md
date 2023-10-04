@@ -17,7 +17,7 @@ On iOS 12 and below, nothing happens. You may wish to do a `Platform.OS === 'ios
 
 ## Getting started
 
-`$ npm install https://gitlab.com/getgain-public/libs/react-native-context-menu.git --save`
+`$ npm install react-native-context-menu-next --save`
 
 ### Mostly automatic installation
 
@@ -29,7 +29,7 @@ pod install
 ## Usage
 
 ```javascript
-import ContextMenu from "react-native-context-menu-view";
+import ContextMenu from "react-native-context-menu-next";
 
 const Example = () => {
   return (
