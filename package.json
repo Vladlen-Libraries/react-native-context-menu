@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpiannucci/react-native-context-menu-view.git",
-    "baseUrl": "https://github.com/mpiannucci/react-native-context-menu-view"
+    "url": "git+https://github.com/Vladlen-Libraries/react-native-context-menu.git",
+    "baseUrl": "https://github.com/Vladlen-Libraries/react-native-context-menu"
   },
   "keywords": [
     "react-native"
